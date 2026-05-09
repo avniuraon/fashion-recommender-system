@@ -1,0 +1,14 @@
+# ignore model/data files
+*.pkl
+
+# python cache
+__pycache__/
+
+# uploaded files
+uploads/
+
+# environment files
+.env
+
+# optional (if dataset is big)
+fashion-dataset/
